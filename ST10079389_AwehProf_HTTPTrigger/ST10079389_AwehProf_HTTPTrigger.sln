@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ST10079389_AwehProd_HTTPTrigger", "ST10079389_AwehProd_HTTPTrigger.csproj", "{97759CE7-72CE-48FB-A483-340A82721359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97759CE7-72CE-48FB-A483-340A82721359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97759CE7-72CE-48FB-A483-340A82721359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97759CE7-72CE-48FB-A483-340A82721359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97759CE7-72CE-48FB-A483-340A82721359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9671F34-8112-4F77-B39F-E6AA85CE456F}
+	EndGlobalSection
+EndGlobal
